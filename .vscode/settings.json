@@ -1,0 +1,8 @@
+{
+    "cquery.cacheDirectory": "${workspaceFolder}/.vscode/cquery_cached_index/",
+    "files.associations": {
+        "*.disasm": "asm",
+        "*.ino": "cpp",
+        "functional": "cpp"
+    }
+}
